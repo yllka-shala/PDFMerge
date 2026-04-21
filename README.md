@@ -15,15 +15,15 @@ PdfMerge Web API is a system that allows users to:
 
 * **Language:** C#
 * **Framework:** .NET 9 / ASP.NET Core WEB API
-* **ORM:** Entity Framework Core / LINQ
-* **Managing files:** PdfSharp.
+* **ORM:** Entity Framework Core
+* **Files library:** PdfSharp.
 * **API Documentation:** Swagger
 
 ## 🚀 Getting Started
 To run this project locally, follow these steps:
 
 1. **Clone the repo:**
-git clone https://github.com/yllka-shala/FinzeWebAPI.git
+git clone https://github.com/yllka-shala/PDFMerge.git
 
 2. **Open the solution:**
 Open `PdfMergeApi.sln` in Visual Studio.
