@@ -1,5 +1,5 @@
 # 🚀 PDFMerge
-A backend Web API built with .NET 9 and C# to help users manage their files.
+A backend Restful API built with .NET 9 and C# to help users manage their files.
 
 ## ✨ Key Features
 PdfMerge Web API is a system that allows users to:
