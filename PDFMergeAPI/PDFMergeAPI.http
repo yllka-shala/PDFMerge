@@ -1,6 +1,6 @@
 @PDFMergeAPI_HostAddress = http://localhost:5267
 
-GET {{PDFMergeAPI_HostAddress}}/weatherforecast/
+GET {{PDFMergeAPI_HostAddress}}/PdfMergeAPI/
 Accept: application/json
 
 ###

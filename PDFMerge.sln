@@ -1,9 +1,11 @@
 ﻿
 Microsoft Visual Studio Solution File, Format Version 12.00
-# Visual Studio Version 17
-VisualStudioVersion = 17.13.35931.197 d17.13
+# Visual Studio Version 18
+VisualStudioVersion = 18.12.12405.243 stable
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PDFMergeAPI", "PDFMergeAPI\PDFMergeAPI.csproj", "{921807C5-1A70-4902-83AB-3A15ACAB5C42}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PDFMergeAPI.Tests", "PDFMergeAPI.Tests\PDFMergeAPI.Tests.csproj", "{D51F28DD-10A1-4AEB-8B09-8C7E3805FA72}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -15,6 +17,10 @@ Global
 		{921807C5-1A70-4902-83AB-3A15ACAB5C42}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{921807C5-1A70-4902-83AB-3A15ACAB5C42}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{921807C5-1A70-4902-83AB-3A15ACAB5C42}.Release|Any CPU.Build.0 = Release|Any CPU
+		{D51F28DD-10A1-4AEB-8B09-8C7E3805FA72}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D51F28DD-10A1-4AEB-8B09-8C7E3805FA72}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D51F28DD-10A1-4AEB-8B09-8C7E3805FA72}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D51F28DD-10A1-4AEB-8B09-8C7E3805FA72}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
